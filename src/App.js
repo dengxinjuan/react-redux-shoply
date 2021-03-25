@@ -1,10 +1,13 @@
 import "./App.css";
+import ProductDetail from "./ProductDetail";
 import ProductList from "./ProductList";
+import Routed from "./Route";
 
 function App() {
   return (
     <div className="App">
-      <ProductList />
+      <h1>Welcome to fakeShop!!</h1>
+      <Routed />
     </div>
   );
 }
