@@ -1,6 +1,5 @@
 import "./App.css";
-import ProductDetail from "./ProductDetail";
-import ProductList from "./ProductList";
+
 import Routed from "./Route";
 
 function App() {
