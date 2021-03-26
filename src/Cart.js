@@ -17,7 +17,9 @@ const Cart = () => {
   return (
     <div>
       {cartItems}
-      <button onClick={() => dispath(reset())}>RESET</button>
+      <button className="btn-lg bg-danger" onClick={() => dispath(reset())}>
+        RESET
+      </button>
     </div>
   );
 };
