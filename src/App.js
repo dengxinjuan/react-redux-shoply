@@ -1,4 +1,5 @@
 import "./App.css";
+import NavBar from "./NavBar";
 import ProductList from "./ProductList";
 
 import Routed from "./Route";
@@ -6,7 +7,7 @@ import Routed from "./Route";
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to fakeShop!!</h1>
+      <NavBar />
       <Routed />
     </div>
   );
