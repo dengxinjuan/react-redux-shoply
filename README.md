@@ -1,3 +1,8 @@
+# It is the react-redux-shoply practice.
+
+The basic study is done, except the further study.
+It is a good project and I am planning to return to polish it later.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
