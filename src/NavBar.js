@@ -2,9 +2,9 @@ import { NavLink } from "react-router-dom";
 
 function NavBar() {
   return (
-    <nav className="navbar narbar-light bg-info">
+    <nav className="navbar narbar-light bg-success">
       <NavLink exact to="/" className="navbar-brand text-light">
-        Shoply
+        FakeShop
       </NavLink>
 
       <ul className="navbar-nav flex-row text-light">
